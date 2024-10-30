@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "686vhFkzUdqK0wxJliEmVYLMHoCeXcizIbFrYM1affMv5OT1nnY+sQ98QHbgLuC2MarV+WlA8YffKEwpMD108w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luis_\\source\\repos\\WebAppToDo\\WebApp\\WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luis_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\luis_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\luis_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\luis_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,77 @@
+﻿@{
+    ViewData["Title"] = "List";
+}
+
+<!--Table-->
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-header">
+                <div class="card-body">
+                    <button class="btn btn-success" id="btnNew">New ToDo</button>
+                    <hr />
+                    <table class="table table-striped" id="tbList">
+                        <thead>
+                            <tr>
+                                <th>Name</th>
+                                <th>Description</th>
+                                <th>Is Completed</th>
+                                <th>Start Date</th>
+                                <th>Finish Date</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Modal-->
+<div class="modal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title"></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <input type="hidden" id="txtId" value="0" />
+                <div class="mb-2">
+                    <label>Name</label>
+                    <input type="text" class="form-control" id="txtName" />
+                </div>
+                <div class="mb-2">
+                    <label>Description</label>
+                    <input type="text" class="form-control" id="txtDescription" />
+                </div>
+                <div class="mb-2">
+                    <label for="txtIsCompleted">Is Completed</label>
+                    <select class="form-control" id="txtIsCompleted">
+                        <option value="true">Yes</option>
+                        <option value="false">No</option>
+                    </select>
+                </div>
+                <div class="mb-2">
+                    <label>Start Date</label>
+                    <input type="datetime-local" class="form-control" id="txtStartDate" />
+                </div>
+                <div class="mb-2">
+                    <label>Finish Date</label>
+                    <input type="datetime-local" class="form-control" id="txtFinishDate" />
+                </div>                
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="btnSave">Save</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/ToDo.js"></script>
+}

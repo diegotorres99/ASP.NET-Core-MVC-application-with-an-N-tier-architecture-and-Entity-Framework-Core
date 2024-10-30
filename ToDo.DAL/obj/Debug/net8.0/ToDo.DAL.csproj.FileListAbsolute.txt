@@ -1,0 +1,17 @@
+C:\Users\luis_\source\repos\WebAppToDo\ToDo.DAL\obj\Debug\net8.0\ToDo.DAL.csproj.AssemblyReference.cache
+C:\Users\luis_\source\repos\WebAppToDo\ToDo.DAL\obj\Debug\net8.0\ToDo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\source\repos\WebAppToDo\ToDo.DAL\obj\Debug\net8.0\ToDo.DAL.AssemblyInfoInputs.cache
+C:\Users\luis_\source\repos\WebAppToDo\ToDo.DAL\obj\Debug\net8.0\ToDo.DAL.AssemblyInfo.cs
+C:\Users\luis_\source\repos\WebAppToDo\ToDo.DAL\obj\Debug\net8.0\ToDo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\luis_\source\repos\WebAppToDo\ToDo.DAL\bin\Debug\net8.0\ToDo.DAL.deps.json
+C:\Users\luis_\source\repos\WebAppToDo\ToDo.DAL\bin\Debug\net8.0\ToDo.DAL.runtimeconfig.json
+C:\Users\luis_\source\repos\WebAppToDo\ToDo.DAL\bin\Debug\net8.0\ToDo.DAL.dll
+C:\Users\luis_\source\repos\WebAppToDo\ToDo.DAL\bin\Debug\net8.0\ToDo.DAL.pdb
+C:\Users\luis_\source\repos\WebAppToDo\ToDo.DAL\bin\Debug\net8.0\ToDo.Models.dll
+C:\Users\luis_\source\repos\WebAppToDo\ToDo.DAL\bin\Debug\net8.0\ToDo.Models.pdb
+C:\Users\luis_\source\repos\WebAppToDo\ToDo.DAL\obj\Debug\net8.0\ToDo.DAL.csproj.Up2Date
+C:\Users\luis_\source\repos\WebAppToDo\ToDo.DAL\obj\Debug\net8.0\ToDo.DAL.dll
+C:\Users\luis_\source\repos\WebAppToDo\ToDo.DAL\obj\Debug\net8.0\refint\ToDo.DAL.dll
+C:\Users\luis_\source\repos\WebAppToDo\ToDo.DAL\obj\Debug\net8.0\ToDo.DAL.pdb
+C:\Users\luis_\source\repos\WebAppToDo\ToDo.DAL\obj\Debug\net8.0\ToDo.DAL.genruntimeconfig.cache
+C:\Users\luis_\source\repos\WebAppToDo\ToDo.DAL\obj\Debug\net8.0\ref\ToDo.DAL.dll
